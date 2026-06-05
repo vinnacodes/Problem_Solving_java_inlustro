@@ -29,10 +29,14 @@ public class RemoveDuplicates {
 
         for (int num : li){
 
-            if (temp.contains(num)) {continue;
+            if(! (temp.contains(num)) )
+
+            {
+                temp.add(num);
             }
-            temp.add(num);
             }
+
+
         System.out.println(temp);
         }
 
