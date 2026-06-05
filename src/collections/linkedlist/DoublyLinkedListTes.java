@@ -57,9 +57,6 @@ class DoublyLinkedList{
        Node newnode= new Node(value);
 
        head =newnode;
-
-
-
     }
 
 }
