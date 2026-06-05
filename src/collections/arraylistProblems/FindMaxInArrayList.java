@@ -19,16 +19,13 @@ public class FindMaxInArrayList {
 
 
 
-       for (int i =0;i<li.size();i++){
+      for(int num : li){
+
+          System.out.println(num);
 
 
-           if (li.get(i)>max){
 
-
-               max =li.get(i);
-           }
-
-       }
+      }
 
 
         System.out.println(max);
