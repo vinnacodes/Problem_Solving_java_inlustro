@@ -16,22 +16,22 @@ import java.util.ArrayList;
 public class RemoveConsecutiveDuplicates {
 
 
-
-    public static void main(String[] ar){
-
-        removeConsecutiveDuplicates();
-
-        //call the method from the main method
-
-
-    }
-
-
-    public  static ArrayList<Integer> removeConsecutiveDuplicates(
-            ArrayList<Integer> list){
-
-
-        // this is where the code to be written and the method signature is already given in the pdf
-    }
+//
+//    public static void main(String[] ar){
+//
+//        removeConsecutiveDuplicates();
+//
+//        //call the method from the main method
+//
+//
+//    }
+//
+//
+//    public  static ArrayList<Integer> removeConsecutiveDuplicates(
+//            ArrayList<Integer> list){
+//
+//
+//        // this is where the code to be written and the method signature is already given in the pdf
+//    }
 
 }
